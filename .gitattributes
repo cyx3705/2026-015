@@ -1,231 +1,413 @@
-# HistoryJanus baseline begin
-*.1 filter=lfs diff=lfs merge=lfs -text
-*.48719 text eol=lf
-*.7z filter=lfs diff=lfs merge=lfs -text
-*.@msg filter=lfs diff=lfs merge=lfs -text
-*.a filter=lfs diff=lfs merge=lfs -text
-*.a51 text eol=lf
-*.administrator text eol=lf
-*.ap15 text eol=lf
-*.asm filter=lfs diff=lfs merge=lfs -text
-*.asmdef text eol=lf
-*.asset text eol=lf
-*.autosave filter=lfs diff=lfs merge=lfs -text
-*.avi filter=lfs diff=lfs merge=lfs -text
-*.baml filter=lfs diff=lfs merge=lfs -text
-*.bin filter=lfs diff=lfs merge=lfs -text
-*.bip filter=lfs diff=lfs merge=lfs -text
-*.blend filter=lfs diff=lfs merge=lfs -text
-*.bmp filter=lfs diff=lfs merge=lfs -text
-*.bomdoc text eol=lf
-*.c text eol=lf
-*.caj filter=lfs diff=lfs merge=lfs -text
-*.cat filter=lfs diff=lfs merge=lfs -text
-*.cfg filter=lfs diff=lfs merge=lfs -text
-*.cfs filter=lfs diff=lfs merge=lfs -text
-*.ckt text eol=lf
-*.cmd text eol=lf
-*.cnk filter=lfs diff=lfs merge=lfs -text
-*.config text eol=lf
-*.cpp text eol=lf
-*.cs text eol=lf
-*.csproj text eol=lf
-*.csv text eol=lf
-*.dat filter=lfs diff=lfs merge=lfs -text
-*.db filter=lfs diff=lfs merge=lfs -text
-*.db-shm filter=lfs diff=lfs merge=lfs -text
-*.db-wal filter=lfs diff=lfs merge=lfs -text
-*.del filter=lfs diff=lfs merge=lfs -text
-*.dft filter=lfs diff=lfs merge=lfs -text
-*.dll filter=lfs diff=lfs merge=lfs -text
-*.doc filter=lfs diff=lfs merge=lfs -text
-*.docm filter=lfs diff=lfs merge=lfs -text
-*.docx filter=lfs diff=lfs merge=lfs -text
-*.dti text eol=lf
-*.dwg filter=lfs diff=lfs merge=lfs -text
-*.dwlt text eol=lf
-*.dxf text eol=lf
-*.dylib filter=lfs diff=lfs merge=lfs -text
-*.editorconfig text eol=lf
-*.err text eol=lf
-*.exe filter=lfs diff=lfs merge=lfs -text
-*.fdt filter=lfs diff=lfs merge=lfs -text
-*.fdx filter=lfs diff=lfs merge=lfs -text
-*.fig filter=lfs diff=lfs merge=lfs -text
-*.filters text eol=lf
-*.flv filter=lfs diff=lfs merge=lfs -text
-*.fnm text eol=lf
-*.frq text eol=lf
-*.gen filter=lfs diff=lfs merge=lfs -text
-*.guid text eol=lf
-*.gx3 filter=lfs diff=lfs merge=lfs -text
-*.gz filter=lfs diff=lfs merge=lfs -text
-*.h text eol=lf
-*.hex filter=lfs diff=lfs merge=lfs -text
-*.htm text eol=lf
-*.html text eol=lf
-*.http text eol=lf
-*.ico filter=lfs diff=lfs merge=lfs -text
-*.id filter=lfs diff=lfs merge=lfs -text
-*.idx filter=lfs diff=lfs merge=lfs -text
-*.iex text eol=lf
-*.igs filter=lfs diff=lfs merge=lfs -text
-*.index filter=lfs diff=lfs merge=lfs -text
-*.inf text eol=lf
-*.ini text eol=lf
-*.ino text eol=lf
-*.inp0 text eol=lf
-*.inpx text eol=lf
-*.intlib filter=lfs diff=lfs merge=lfs -text
-*.ipch filter=lfs diff=lfs merge=lfs -text
-*.jar filter=lfs diff=lfs merge=lfs -text
-*.jfif filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.JPG filter=lfs diff=lfs merge=lfs -text
-*.js text eol=lf
-*.json text eol=lf
-*.jt filter=lfs diff=lfs merge=lfs -text
-*.ksp filter=lfs diff=lfs merge=lfs -text
-*.lastbuildstate text eol=lf
-*.layx text eol=lf
-*.lib filter=lfs diff=lfs merge=lfs -text
-*.libpkg text eol=lf
-*.lnk filter=lfs diff=lfs merge=lfs -text
-*.lnp text eol=lf
-*.lst text eol=lf
-*.m text eol=lf
-*.m51 text eol=lf
-*.manifest text eol=lf
-*.mcam filter=lfs diff=lfs merge=lfs -text
-*.mcam-control filter=lfs diff=lfs merge=lfs -text
-*.mcam-gmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-lmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-mmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-rmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-wmd filter=lfs diff=lfs merge=lfs -text
-*.md text eol=lf
-*.mdl text eol=lf
-*.meta text eol=lf
-*.mkv filter=lfs diff=lfs merge=lfs -text
-*.mltbx filter=lfs diff=lfs merge=lfs -text
-*.mod text eol=lf
-*.mov filter=lfs diff=lfs merge=lfs -text
-*.mp3 filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.nc text eol=lf
-*.nfproj text eol=lf
-*.nupkg filter=lfs diff=lfs merge=lfs -text
-*.original filter=lfs diff=lfs merge=lfs -text
-*.p7s filter=lfs diff=lfs merge=lfs -text
-*.par filter=lfs diff=lfs merge=lfs -text
-*.pcbdoc filter=lfs diff=lfs merge=lfs -text
-*.pcblib filter=lfs diff=lfs merge=lfs -text
-*.pdbx text eol=lf
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.pe filter=lfs diff=lfs merge=lfs -text
-*.pl filter=lfs diff=lfs merge=lfs -text
-*.plf filter=lfs diff=lfs merge=lfs -text
-*.plg text eol=lf
-*.pma15_0 filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.pptx filter=lfs diff=lfs merge=lfs -text
-*.prefab text eol=lf
-*.pri filter=lfs diff=lfs merge=lfs -text
-*.projitems text eol=lf
-*.props text eol=lf
-*.prp filter=lfs diff=lfs merge=lfs -text
-*.prproj filter=lfs diff=lfs merge=lfs -text
-*.prt filter=lfs diff=lfs merge=lfs -text
-*.prtpl filter=lfs diff=lfs merge=lfs -text
-*.prx filter=lfs diff=lfs merge=lfs -text
-*.ps1 text eol=lf
-*.psb filter=lfs diff=lfs merge=lfs -text
-*.psm filter=lfs diff=lfs merge=lfs -text
-*.pst text eol=lf
-*.pubxml text eol=lf
-*.pwx filter=lfs diff=lfs merge=lfs -text
-*.py text eol=lf
-*.pyc filter=lfs diff=lfs merge=lfs -text
-*.pyproj text eol=lf
-*.qml text eol=lf
-*.r2021a filter=lfs diff=lfs merge=lfs -text
-*.razor text eol=lf
-*.rdf filter=lfs diff=lfs merge=lfs -text
-*.recipe text eol=lf
-*.resources filter=lfs diff=lfs merge=lfs -text
-*.resx text eol=lf
-*.rld filter=lfs diff=lfs merge=lfs -text
-*.rlf text eol=lf
-*.rsf text eol=lf
-*.rslib filter=lfs diff=lfs merge=lfs -text
-*.rsproj text eol=lf
-*.rsstnx text eol=lf
-*.rsuser text eol=lf
-*.rul text eol=lf
-*.schdoc filter=lfs diff=lfs merge=lfs -text
-*.schlib filter=lfs diff=lfs merge=lfs -text
-*.scr text eol=lf
-*.set text eol=lf
-*.settings text eol=lf
-*.sev text eol=lf
-*.shproj text eol=lf
-*.sldasm filter=lfs diff=lfs merge=lfs -text
-*.slddrw filter=lfs diff=lfs merge=lfs -text
-*.sldprt filter=lfs diff=lfs merge=lfs -text
-*.sln text eol=lf
-*.slx filter=lfs diff=lfs merge=lfs -text
-*.so filter=lfs diff=lfs merge=lfs -text
-*.srt filter=lfs diff=lfs merge=lfs -text
-*.step filter=lfs diff=lfs merge=lfs -text
-*.stp text eol=lf
-*.sys filter=lfs diff=lfs merge=lfs -text
-*.targets text eol=lf
-*.tii filter=lfs diff=lfs merge=lfs -text
-*.tis filter=lfs diff=lfs merge=lfs -text
-*.tooldb filter=lfs diff=lfs merge=lfs -text
-*.tvd filter=lfs diff=lfs merge=lfs -text
-*.tvf filter=lfs diff=lfs merge=lfs -text
-*.tvx filter=lfs diff=lfs merge=lfs -text
-*.txt text eol=lf
-*.unity text eol=lf
-*.uvopt text eol=lf
-*.uvproj text eol=lf
-*.v2 filter=lfs diff=lfs merge=lfs -text
-*.vb text eol=lf
-*.vbproj text eol=lf
-*.vcxproj text eol=lf
-*.vxd filter=lfs diff=lfs merge=lfs -text
-*.wmv filter=lfs diff=lfs merge=lfs -text
-*.xaml text eol=lf
-*.xls filter=lfs diff=lfs merge=lfs -text
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-*.xmind filter=lfs diff=lfs merge=lfs -text
-*.xml text eol=lf
-*.xmp text eol=lf
-*.x_t filter=lfs diff=lfs merge=lfs -text
-*.yml text eol=lf
-*.zheng text eol=lf
-*.zw1 filter=lfs diff=lfs merge=lfs -text
-*._ text eol=lf
-# HistoryJanus baseline end
+# 极保守 LFS 策略：不按扩展名批量套 LFS。
+# 旧的按扩展名通配（*.asm / *.baml 这类文本也在内）是 11GB LFS 占用
+# 与推送被 GitHub pre-receive 拒收的根因。
+# 下面只逐条列出**已经是 LFS 指针**的现存文件，保证这些指针不失效；
+# 新文件一律不自动进 LFS——只有单个文件超过 GitHub 100MB 硬限时，
+# 才由提交链路逐个征求人工同意后按精确路径追加。
+* text=auto
 
-*.JPG filter=lfs diff=lfs merge=lfs -text
-*.PNG filter=lfs diff=lfs merge=lfs -text
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.stp filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.mkv filter=lfs diff=lfs merge=lfs -text
-*.wmv filter=lfs diff=lfs merge=lfs -text
-*.flv filter=lfs diff=lfs merge=lfs -text
-\# filter=lfs diff=lfs merge=lfs -text
-常见视频格式 filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.mov filter=lfs diff=lfs merge=lfs -text
-*.avi filter=lfs diff=lfs merge=lfs -text
-Pro filter=lfs diff=lfs merge=lfs -text
-工程文件 filter=lfs diff=lfs merge=lfs -text
-*.prproj filter=lfs diff=lfs merge=lfs -text
-*.prp filter=lfs diff=lfs merge=lfs -text
-*.prtpl filter=lfs diff=lfs merge=lfs -text
-*.pl filter=lfs diff=lfs merge=lfs -text
-Premiere filter=lfs diff=lfs merge=lfs -text
+b-Module-NX/_model.prt filter=lfs diff=lfs merge=lfs -text
+b-Module-NX/ug测试模型.prt filter=lfs diff=lfs merge=lfs -text
+b-Module-cam/T.mcam filter=lfs diff=lfs merge=lfs -text
+b-Module-cam/cam建模学习.mcam filter=lfs diff=lfs merge=lfs -text
+b-Module-cam/ug测试模型.mcam filter=lfs diff=lfs merge=lfs -text
+b-Module-cam/动态铣削演示.mcam filter=lfs diff=lfs merge=lfs -text
+b-Module-cam/线框串联演示.mcam filter=lfs diff=lfs merge=lfs -text
+b-Module-cam/面铣演示.mcam filter=lfs diff=lfs merge=lfs -text
+b-Module-cam/面铣演示2.mcam filter=lfs diff=lfs merge=lfs -text
+b-Module-cam/面铣演示3.mcam filter=lfs diff=lfs merge=lfs -text
+b-Module-cam/面铣演示4.mcam filter=lfs diff=lfs merge=lfs -text
+b-Module-cam/面铣演示5.mcam filter=lfs diff=lfs merge=lfs -text
+b-Module-cam/面铣演示6.mcam filter=lfs diff=lfs merge=lfs -text
+b-References/3XX(自治机床文件).mcam-mmd filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ACU-RITE MILLPOWER 3 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ACU-RITE MILLPOWER 3 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/AGIE GENERIC AC123 4X WIRE MM.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/AGIE GENERIC AC123 4X WIRE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/AGIE GENERIC AC123 4X WIRE.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/AGIE GENERIC AGIEVISION_AWF 4X WIRE MM.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/AGIE GENERIC AGIEVISION_AWF 4X WIRE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/AGIE GENERIC AGIEVISION_AWF 4X WIRE.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/AKIRA_SEIKI MITSUBISHI_MELDAS_64 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/AKIRA_SEIKI MITSUBISHI_MELDAS_64 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/AKIRA_SEIKI MITSUBISHI_MELDAS_64 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ALL COMPONENTS MM.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ALL COMPONENTS.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ALL LATHE COMPONENTS MM.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ALL LATHE COMPONENTS.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ALL MILL COMPONENTS MM.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ALL MILL COMPONENTS.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ALL ROUTER COMPONENTS MM.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ALL ROUTER COMPONENTS.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ALL WIRE COMPONENTS MM.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ALL WIRE COMPONENTS.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANDERSON EXXACT_PLUS FANUC 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANDERSON EXXACT_PLUS FANUC 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANDERSON EXXACT_PLUS FANUC 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANDERSON MAXXIS FANUC 5X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANDERSON MAXXIS FANUC 5X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANDERSON MAXXIS FANUC 5X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANDERSON STRATOS_PRO FANUC 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANDERSON STRATOS_PRO FANUC 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANDERSON STRATOS_PRO FANUC 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANDERSON STRATOS_SUP FANUC 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANDERSON STRATOS_SUP FANUC 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANDERSON STRATOS_SUP FANUC 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANILAM CRUSADER 3 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ANILAM CRUSADER 3 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/AgieCharmilles Cut_20 4X Wire MM.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/AgieCharmilles Cut_20 4X Wire.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/AgieCharmilles Cut_20 4X Wire.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/BRIDGEPORT BOSS 8 3 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/BRIDGEPORT BOSS 8 3 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/BRIDGEPORT BOSS 9 3 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/BRIDGEPORT BOSS 9 3 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/BRIDGEPORT DX-32 3 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/BRIDGEPORT DX-32 3 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/BRIDGEPORT EZTRAK_GCODE 3X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/BRIDGEPORT EZTRAK_GCODE 3X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/BRIDGEPORT EZTRAK_GCODE 3X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CHARMILLES MILLENIUM 4X WIRE MM.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CHARMILLES MILLENIUM 4X WIRE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CHARMILLES MILLENIUM 4X WIRE.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CHARMILLES ROBOFIL 4X WIRE MM.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CHARMILLES ROBOFIL 4X WIRE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CHARMILLES ROBOFIL 4X WIRE.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CHARMILLES ROBOFIL ISO_ONLY 4X WIRE MM.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CHARMILLES ROBOFIL ISO_ONLY 4X WIRE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CHARMILLES ROBOFIL ISO_ONLY 4X WIRE.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CINCINNATI ACRAMATIC_2100E 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CINCINNATI ACRAMATIC_2100E 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CINCINNATI ACRAMATIC_2100E 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CINCINNATI_MILACRON VICKERS_2100 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CINCINNATI_MILACRON VICKERS_2100 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/CINCINNATI_MILACRON VICKERS_2100 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/DENFORD 3X AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/DENFORD 3X MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/DENFORD NOVATURN 2 AXIS LATHE.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/DENFORD NOVATURN 2 AXIS LATHE.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/DYNAPATH SYSTEM_10_20_CONVERSATIONAL 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/DYNAPATH SYSTEM_10_20_CONVERSATIONAL 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/DYNAPATH SYSTEM_10_20_CONVERSATIONAL 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Easel 3X Mill MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Easel 3X Mill.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Easel 3X Mill.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/FOREST SCIENTIFIC VELOCITY 3 AXIS MILL-TC.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/FOREST SCIENTIFIC VELOCITY 3 AXIS MILL-TC.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/FOREST SCIENTIFIC VELOCITY 3 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/FOREST SCIENTIFIC VELOCITY 3 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/FOREST SCIENTIFIC VELOCITY LATHE-TC.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/FOREST SCIENTIFIC VELOCITY LATHE-TC.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/FOREST SCIENTIFIC VELOCITY LATHE.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/FOREST SCIENTIFIC VELOCITY LATHE.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/FOREST SCIENTIFIC VELOCITY PLASMA.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/FOREST SCIENTIFIC VELOCITY PLASMA.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC AXYZ 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC AXYZ 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC AXYZ 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC BUSELLATO EVOLUTION 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC BUSELLATO EVOLUTION 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC BUSELLATO EVOLUTION 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ENSHU ES_SERIES 5X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ENSHU ES_SERIES 5X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ENSHU ES_SERIES 5X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FADAL FORMAT_1 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FADAL FORMAT_1 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FADAL FORMAT_1 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FADAL FORMAT_2 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FADAL FORMAT_2 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FADAL FORMAT_2 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FANUC 2X LATHE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FANUC 3X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FANUC 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FANUC 4X MT_LATHE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FANUC 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FANUC 4X WIRE MM.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FANUC 4X WIRE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FANUC 4X WIRE.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FANUC 5X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FANUC 5X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FLEXICAM 3X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FLEXICAM 3X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC FLEXICAM 3X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS 3X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS 3X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS 3X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS ES-5 5X HMC MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS ES-5 5X HMC MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS ES-5 5X HMC MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS ST 4X MT_LATHE MM.MCAM-LMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS ST 4X MT_LATHE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS ST 4X MT_LATHE.MCAM-LMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS TL 2X LATHE MM.MCAM-LMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS TL 2X LATHE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS TL 2X LATHE.MCAM-LMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS VF-TR_SERIES 5X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS VF-TR_SERIES 5X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HAAS VF-TR_SERIES 5X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HEIDENHAIN_TNC530 3X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HEIDENHAIN_TNC530 3X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HEIDENHAIN_TNC530 3X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HEIDENHAIN_TNC_ISO 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HEIDENHAIN_TNC_ISO 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC HEIDENHAIN_TNC_ISO 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC KOMO FANUC 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC KOMO FANUC 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC KOMO FANUC 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC MAKINO 4X WIRE (TECH).MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC MAKINO 4X WIRE (TECH).MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC MAKINO 4X WIRE MM (TECH).MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC MAKINO 4X WIRE MM.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC MAKINO 4X WIRE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC MAKINO 4X WIRE.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC MAZAK 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC MAZAK 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC MAZAK 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC OKUMA 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC OKUMA 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC OKUMA 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD AMC 4X FIXED_GANTRY_ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD AMC 4X FIXED_GANTRY_ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD AMC 4X MOVING_GANTRY_ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD AMC 4X MOVING_GANTRY_ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD AMC 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD DELTA_TAU 4X FIXED_GANTRY_ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD DELTA_TAU 4X FIXED_GANTRY_ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD DELTA_TAU 4X MOVING_GANTRY_ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD DELTA_TAU 4X MOVING_GANTRY_ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD DELTA_TAU 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD OSAI 4X FIXED_GANTRY_ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD OSAI 4X FIXED_GANTRY_ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD OSAI 4X MOVING_GANTRY_ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD OSAI 4X MOVING_GANTRY_ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC ONSRUD OSAI 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC PROTOTRAK 3X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC PROTOTRAK 3X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC PROTOTRAK 3X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC SHODA FANUC 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC SHODA FANUC 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC SHODA FANUC 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC TECHNO 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC TECHNO 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC TECHNO 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC TECHNO 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC TECHNO 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/GENERIC TECHNO 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Generic Fanuc 3x Router.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Generic PocketNC 5X Mill MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Generic PocketNC 5X Mill.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Generic PocketNC 5X Mill.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/HARDINGE_CONQUEST_T42 FANUC_18T 4X MT_LATHE MM.MCAM-LMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/HARDINGE_CONQUEST_T42 FANUC_18T 4X MT_LATHE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/HARDINGE_CONQUEST_T42 FANUC_18T 4X MT_LATHE.MCAM-LMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/HEIDENHAIN TNC 145 3 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/HEIDENHAIN TNC 145 3 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/HURCO ULTIMAX_BNC 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/HURCO ULTIMAX_BNC 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/HURCO ULTIMAX_BNC 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+b-References/CNC_MACHINES/HURCO_TMM8.mcam-control filter=lfs diff=lfs merge=lfs -text
+b-References/CNC_MACHINES/HURCO_TMM8.mcam-lmd filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/INTELITEK 3 AXIS MILL MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/INTELITEK 3 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/INTELITEK 3 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/INTELITEK 4 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/INTELITEK 4 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/INTELITEK LATHE.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/INTELITEK LATHE.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/KOMO VR-FUSION_SERIES 4X MH_ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/KOMO VR-FUSION_SERIES 4X MH_ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/KOMO VR-FUSION_SERIES 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/KOMO VR-FUSION_SERIES 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/KOMO VR-FUSION_SERIES 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LAB VOLT 3 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LABVOLT 3 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LABVOLT LEVEL 5 2 AXIS LL LATHE.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LABVOLT LEVEL 5 2 AXIS LL LATHE.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LAGUNA Smartshop_II BR ATC.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LAGUNA Smartshop_II BR ATC.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE 2 AXIS COMPONENTS MM.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE 2 AXIS COMPONENTS.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE 2-AXIS SLANT BED MM.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE 2-AXIS SLANT BED.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE C-AXIS SLANT BED MM.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE C-AXIS SLANT BED.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE C-Y AXIS SLANT BED MM.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE C-Y AXIS SLANT BED.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE DEFAULT MM.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE DEFAULT.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE MULTI  AXIS  MILL - TURN  ADVANCED 2 - 2 MM.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE MULTI  AXIS  MILL - TURN  ADVANCED 2 - 2.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE MULTI  AXIS  MILL - TURN  ADVANCED 2 - 4 MM.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/LATHE MULTI  AXIS  MILL - TURN  ADVANCED 2 - 4.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MACH 3 3 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MACH 3 3 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MAKINO S56 PRO_3 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MAKINO S56 PRO_3 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MAKINO S56 PRO_3 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MAZAK NEXUS_410A 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MAZAK NEXUS_410A 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MAZAK NEXUS_410A 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL 3 - AXIS HMC MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL 3 - AXIS HMC.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL 3 - AXIS VMC MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL 3 - AXIS VMC.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL 4 - AXIS HMC MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL 4 - AXIS HMC.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL 4 - AXIS VMC MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL 4 - AXIS VMC.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL 5 - AXIS TABLE - HEAD VERTICAL MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL 5 - AXIS TABLE - HEAD VERTICAL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL 5 - AXIS TABLE - TABLE HORIZONTAL MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL 5 - AXIS TABLE - TABLE HORIZONTAL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL DEFAULT MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL DEFAULT.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL HMC COMPONENTS MM.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL HMC COMPONENTS.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL VMC COMPONENTS MM.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILL VMC COMPONENTS.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILLTRONICS CENTURION_4 3X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILLTRONICS CENTURION_4 3X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILLTRONICS CENTURION_4 3X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILLTRONICS CENTURION_6 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILLTRONICS CENTURION_6 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MILLTRONICS CENTURION_6 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MITSUBISHI FA-SERIES 4X WIRE (TECH).MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MITSUBISHI FA-SERIES 4X WIRE (TECH).MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MITSUBISHI FA-SERIES 4X WIRE MM (TECH).MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MITSUBISHI FA-SERIES 4X WIRE MM.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MITSUBISHI FA-SERIES 4X WIRE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MITSUBISHI FA-SERIES 4X WIRE.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MITSUBISHI MELDAS 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MITSUBISHI MELDAS 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MITSUBISHI MELDAS 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MORI SEIKI NLX2500 4X MT_LATHE MM.MCAM-LMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MORI SEIKI NLX2500 4X MT_LATHE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MORI SEIKI NLX2500 4X MT_LATHE.MCAM-LMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MORI SEIKI NVX5000 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MORI SEIKI NVX5000 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MORI SEIKI NVX5000 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MORI_SEIKI_NV5000 FANUC18I 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MORI_SEIKI_NV5000 FANUC18I 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MORI_SEIKI_NV5000 FANUC18I 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MOTION_MASTER FAGOR_8055 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MOTION_MASTER FAGOR_8055 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/MOTION_MASTER FAGOR_8055 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+b-References/CNC_MACHINES/MPEMCO4.mcam-control filter=lfs diff=lfs merge=lfs -text
+b-References/CNC_MACHINES/MPEMCO4.mcam-mmd filter=lfs diff=lfs merge=lfs -text
+b-References/CNC_MACHINES/MPLCNC5.mcam-control filter=lfs diff=lfs merge=lfs -text
+b-References/CNC_MACHINES/MPLCNC5.mcam-lmd filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Multicam 3X Router MM.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Multicam 3X Router.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Multicam 3X Router.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/NORTHWOOD IH_SERIES FANUC 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/NORTHWOOD IH_SERIES FANUC 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/NORTHWOOD IH_SERIES FANUC 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/NORTHWOOD IH_SERIES SIEMENS 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/NORTHWOOD IH_SERIES SIEMENS 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/NORTHWOOD IH_SERIES SIEMENS 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA MB56VA 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA MB56VA 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA MB56VA 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA OSP5020M 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA OSP5020M 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA OSP5020M 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA OSP7000 2X LATHE MM.MCAM-LMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA OSP7000 2X LATHE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA OSP7000 2X LATHE.MCAM-LMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA OSP_P200M 4X HMC MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA OSP_P200M 4X HMC MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA OSP_P200M 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA OSP_P200M 4X VMC MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OKUMA OSP_P200M 4X VMC MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OMNITECH SELEXX FANUC 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OMNITECH SELEXX FANUC 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OMNITECH SELEXX FANUC 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OMNITECH SELEXX SIEMENS 4X ROUTER MM.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OMNITECH SELEXX SIEMENS 4X ROUTER.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/OMNITECH SELEXX SIEMENS 4X ROUTER.MCAM-RMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/PROTOTRAK K2 MX2 2 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/PROTOTRAK K2 MX2 2 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/PROTOTRAK LPM PMX_CAM 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/PROTOTRAK LPM PMX_CAM 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/PROTOTRAK LPM PMX_CAM 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/PROTOTRAK LPM PMX_GCD 4X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/PROTOTRAK LPM PMX_GCD 4X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/PROTOTRAK LPM PMX_GCD 4X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/PROTOTRAK LX2 2 AXIS LATHE.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/PROTOTRAK LX2 2 AXIS LATHE.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER 5-AXIS HEAD-HEAD MM.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER 5-AXIS HEAD-HEAD.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER DEFAULT MM.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER DEFAULT.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER DUAL TABLE FIXED GANTRY - 5X5 DRILL BLOCK MM.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER DUAL TABLE FIXED GANTRY - 5X5 DRILL BLOCK.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER DUAL TABLE FIXED GANTRY MM.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER DUAL TABLE FIXED GANTRY.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER MULTI-HEAD MM.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER MULTI-HEAD.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER SINGLE TABLE FIXED GANTRY MM.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER SINGLE TABLE FIXED GANTRY.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER SINGLE TABLE MOVING GANTRY - 5X5 DRILL BLOCK MM.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/ROUTER SINGLE TABLE MOVING GANTRY - 5X5 DRILL BLOCK.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Router 3 - Axis VMC MM.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Router 3 - Axis VMC.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/SHOPBOT 3 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/SHOPBOT 3 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/SHOPBOT 3 AXIS ROUTER.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/SHOPBOT 3 AXIS ROUTER.mcam-rmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/SNK MAX410i-F40 5X MILL MM.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/SNK MAX410i-F40 5X MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/SNK MAX410i-F40 5X MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/SODICK MARK_30 4X WIRE MM.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/SODICK MARK_30 4X WIRE.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/SODICK MARK_30 4X WIRE.MCAM-WMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 808D 3x HMC Mill MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 808D 3x HMC Mill.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 808D 3x VMC Mill MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 808D 3x VMC Mill.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 808D 3x_4x Mill.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 808D 4x HMC Mill MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 808D 4x HMC Mill.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 808D 4x VMC Mill MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 808D 4x VMC Mill.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 840D_828D 3x HMC Mill MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 840D_828D 3x HMC Mill.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 840D_828D 3x VMC Mill MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 840D_828D 3x VMC Mill.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 840D_828D 3x_4x Mill.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 840D_828D 4x HMC Mill MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 840D_828D 4x HMC Mill.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 840D_828D 4x VMC Mill MM.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/Siemens 840D_828D 4x VMC Mill.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/TECHNO DAVINCI 3 AXIS STEPPER MILL.MCAM-CONTROL" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/TECHNO DAVINCI 3 AXIS STEPPER MILL.MCAM-MMD" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/TECHNO DAVINCI SERVO 3 AXIS MILL.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/TECHNO DAVINCI SERVO 3 AXIS MILL.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/TECHNO SERVO 3 AXIS MILL INCH.mcam-control" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/TECHNO SERVO 3 AXIS MILL INCH.mcam-mmd" filter=lfs diff=lfs merge=lfs -text
+b-References/CNC_MACHINES/TechnoHD_non_ATC-MM.mcam-mmd filter=lfs diff=lfs merge=lfs -text
+b-References/CNC_MACHINES/TechnoHD_non_ATC.mcam-control filter=lfs diff=lfs merge=lfs -text
+b-References/CNC_MACHINES/TechnoHD_non_ATC.mcam-mmd filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/VTL COMPONENTS MM.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/VTL COMPONENTS.mcam-gmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/VTL MULTI TURRET MM.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/VTL MULTI TURRET.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/VTL RIGHT TURRET MM.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/VTL RIGHT TURRET.mcam-lmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/WIRE DEFAULT MM.mcam-wmd" filter=lfs diff=lfs merge=lfs -text
+"b-References/CNC_MACHINES/WIRE DEFAULT.mcam-wmd" filter=lfs diff=lfs merge=lfs -text
+b-References/CNC_MACHINES/default.mcam-control filter=lfs diff=lfs merge=lfs -text
+"b-References/Posts/Generic Enshu ES_Series 5X Mill.psb" filter=lfs diff=lfs merge=lfs -text
+"b-References/Posts/Generic Fanuc 5X Mill.psb" filter=lfs diff=lfs merge=lfs -text
+"b-References/Posts/Generic Haas ES-5 5X HMC Mill.psb" filter=lfs diff=lfs merge=lfs -text
+"b-References/Posts/Generic Haas VF-TR_Series 5X Mill.psb" filter=lfs diff=lfs merge=lfs -text
+"b-References/Posts/Generic PocketNC 5X Mill.psb" filter=lfs diff=lfs merge=lfs -text
+"b-References/Posts/SNK MAX410i-F40 5X Mill.psb" filter=lfs diff=lfs merge=lfs -text
+"b-References/Posts/Siemens 3x_4x Mill.psb" filter=lfs diff=lfs merge=lfs -text
+z-Mastercam元文件/z-Mastercsm官方刀库.lnk filter=lfs diff=lfs merge=lfs -text
+z-Mastercam元文件/z-自定义刀具库.TOOLDB filter=lfs diff=lfs merge=lfs -text
+z-Mastercam元文件/z-自定义刀柄库.tooldb filter=lfs diff=lfs merge=lfs -text
+z-Mastercam元文件/z-自定义机床文件.mcam-mmd filter=lfs diff=lfs merge=lfs -text
